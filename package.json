@@ -1,0 +1,31 @@
+{
+  "name": "news-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+      "dev": "nuxt",
+      "build": "nuxt build",
+      "start": "nuxt start",
+      "generate": "nuxt generate"
+  },
+  "dependencies": {
+      "@mdi/js": "^6.3.95",
+      "@nuxtjs/auth-next": "5.0.0-1624817847.21691f1",
+      "@nuxtjs/axios": "^5.13.6",
+      "@tui-nuxt/editor": "^1.0.0-beta.3",
+      "core-js": "^3.18.3",
+      "loader": "^2.1.1",
+      "nuxt": "^2.15.7",
+      "vue": "^2.6.14",
+      "tui-editor": "^1.4.10",
+      "vue-html-to-paper": "^1.4.3",
+      "vue-loader": "^15.9.8",
+      "vue-upload-multiple-image": "^1.1.6",
+      "vue2-dropzone": "^3.6.0",
+      "vuetify": "^2.5.10"
+  },
+  "devDependencies": {
+      "@nuxtjs/vuetify": "^1.12.1",
+      "webpack": "^4.46.0"
+  }
+}
